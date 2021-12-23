@@ -26,11 +26,11 @@ Data Exploration - Part 1:
 
 1. Performed descriptive analysis. On the columns below, a value of zero does not make sense and thus indicates missing value:
 
- • Glucose
- • BloodPressure
- • SkinThickness
- • Insulin
- • BMI
+   • Glucose  
+   • BloodPressure  
+   • SkinThickness  
+   • Insulin  
+   • BMI  
 
 2. Visually exploring these variables using histograms and treating the missing values accordingly.
 3. There are integer and float data type variables in this dataset. Creating a count (frequency) plot describing the data types and the count of variables. 
