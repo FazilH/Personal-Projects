@@ -2,7 +2,7 @@
 
 
 
-## Index
+Index
 
 This repository holds all of my personal projects that I've done while I was
 learning Data Science. Currently they're binned in two different categories
@@ -24,7 +24,6 @@ learning Data Science. Currently they're binned in two different categories
     -   [Wikipedia
         Toxicity](https://github.com/FazilH/Personal-Projects/tree/master/NLP/Wikipedia%20Toxicity)
 
-## 
 
 
 
@@ -42,7 +41,7 @@ completed my Masters in Data Science in April 2021.
 
 Now I focus on learning more and more about Data Science and Machine Learning
 
-### 
+
 
 ### Contact Me
 
