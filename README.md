@@ -19,7 +19,9 @@ learning Data Science. Currently they're binned in two different categories
     -   [US Finance Complaints Analysis
         (EDA)](https://github.com/FazilH/Personal-Projects/tree/master/Data%20Science%20Basics/US%20Finance%20Complaints%20Analysis%20(EDA))
 
-2.  [NLP/Wikipedia
+2.  [NLP](https://github.com/FazilH/Personal-Projects/tree/master/NLP/Wikipedia%20Toxicity)
+
+-   [Wikipedia
     Toxicity](https://github.com/FazilH/Personal-Projects/tree/master/NLP/Wikipedia%20Toxicity)
 
 ## **Background**
