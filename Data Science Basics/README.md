@@ -1,3 +1,5 @@
+# Data Science Basics
+
 This repository holds all projects on the basics of Data Science that I've done while learning Data Science. Currently there are three projects
 1. Exploratory Data Analysis(EDA)
 	-US Finance Complaints Analysis
