@@ -1,8 +1,8 @@
-# **Fazil Hussain - Projects Portfolio**
+# Fazil Hussain - Projects Portfolio
 
 ## 
 
-## **Index**
+## Index
 
 This repository holds all of my personal projects that I've done while I was
 learning Data Science. Currently they're binned in two different categories
@@ -21,10 +21,12 @@ learning Data Science. Currently they're binned in two different categories
 
 2.  [NLP](https://github.com/FazilH/Personal-Projects/tree/master/NLP/Wikipedia%20Toxicity)
 
--   [Wikipedia
-    Toxicity](https://github.com/FazilH/Personal-Projects/tree/master/NLP/Wikipedia%20Toxicity)
+    -   [Wikipedia
+        Toxicity](https://github.com/FazilH/Personal-Projects/tree/master/NLP/Wikipedia%20Toxicity)
 
-## **Background**
+## 
+
+## Background
 
 Hello!
 
@@ -40,7 +42,7 @@ Now I focus on learning more and more about Data Science and Machine Learning
 
 ### 
 
-### **Contact Me**
+### Contact Me
 
 | **Contact Method** |                                                             |
 |--------------------|-------------------------------------------------------------|
