@@ -7,7 +7,6 @@ Regression is an approach for finding the relationship between the response/targ
 
 
 # Variables :
-
 | **Variables Name** | **Description**                                                                                                                                                                                                         |
 |--------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Age                |  Age of primary beneficiary                                                                                                                                                                                             |
