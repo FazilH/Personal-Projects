@@ -1,18 +1,11 @@
 # Exploratory Data Analysis
 
-# 
-
-# Exploratory Data Analysis (EDA) is an analysis approach that identifies general patterns in the data. EDA is an important first step in any data analysis. Understanding how variables are related can help one design statistical analyses that yield meaningful results.
-
-# 
+Exploratory Data Analysis (EDA) is an analysis approach that identifies general patterns in the data. EDA is an important first step in any data analysis. Understanding how variables are related can help one design statistical analyses that yield meaningful results.
 
 # Dataset Used : [US Consumer Finance Complaints \| Kaggle](https://www.kaggle.com/kaggle/us-consumer-finance-complaints)
 
 # Description:
-
-# US consumer complaints on financial products and company responses. Each week [the CFPB](http://www.consumerfinance.gov/data-research/consumer-complaints/) (Consumer Financial Protection Bureau) sends thousands of consumers’ complaints about financial products and services to companies for response. Those complaints are published here after the company responds or after 15 days, whichever comes first.
-
-# 
+US consumer complaints on financial products and company responses. Each week [the CFPB](http://www.consumerfinance.gov/data-research/consumer-complaints/) (Consumer Financial Protection Bureau) sends thousands of consumers’ complaints about financial products and services to companies for response. Those complaints are published here after the company responds or after 15 days, whichever comes first.
 
 | **Field Name**               | **Description**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 |------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
