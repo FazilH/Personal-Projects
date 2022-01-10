@@ -2,7 +2,7 @@
 
 
 
-Index
+## Index
 
 This repository holds all of my personal projects that I've done while I was
 learning Data Science. Currently they're binned in two different categories
