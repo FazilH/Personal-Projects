@@ -33,7 +33,7 @@ Hello!
 
 My name is Fazil Hussain and welcome to my Project Portfolio! A little bit about
 me. I have been working with Cognizant Technology Solutions for the past 4 years
-as a Sr. Process Executive, where My role is to curate the Sitelink extensions
+as a Sr. Process Executive, where my role is to curate the Sitelink extensions
 that appear in ads at the top and bottom of Google search results. My current
 job profile is non-technical which led me to upscale my skill and become more
 industry relevant, for which I enrolled in a PG Program in Data Science. I
