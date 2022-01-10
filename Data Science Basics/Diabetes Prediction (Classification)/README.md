@@ -59,7 +59,7 @@ count (frequency) plot describing the data types and the count of variables.
 value.  
 2\. Creating scatter charts between the pair of variables to understand the
 relationships.  
-3\. Performing correlation analysis. Visually exploring it using a heat map.  
+3\. Performing correlation analysis. Visually exploring it using a heat map. 
 
 ## Data Modeling:
 1\. Applying different classification algorithm to build a model.  
