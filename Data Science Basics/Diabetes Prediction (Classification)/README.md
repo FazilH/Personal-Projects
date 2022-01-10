@@ -41,28 +41,28 @@ patient has had, their BMI, insulin level, age, and more.
 
 ### Data Exploration - Part 1:
 1\. Performed descriptive analysis. On the columns below, a value of zero does
-not make sense and thus indicates missing value:
+not make sense and thus indicates missing value:  
 
-• Glucose
-• BloodPressure
-• SkinThickness
-• Insulin
-• BMI
+• Glucose  
+• BloodPressure  
+• SkinThickness  
+• Insulin  
+• BMI  
 
 2\. Visually exploring these variables using histograms and treating the missing
-values accordingly.
+values accordingly.  
 3\. There are integer and float data type variables in this dataset. Creating a
-count (frequency) plot describing the data types and the count of variables.
+count (frequency) plot describing the data types and the count of variables.  
 
 ### Data Exploration - Part 2:
 1\. Checking the balance of the data by plotting the count of outcomes by their
-value.
+value.  
 2\. Creating scatter charts between the pair of variables to understand the
-relationships.
-3\. Performing correlation analysis. Visually exploring it using a heat map.
+relationships.  
+3\. Performing correlation analysis. Visually exploring it using a heat map.  
 
 ## Data Modeling:
-1\. Applying different classification algorithm to build a model.
+1\. Applying different classification algorithm to build a model.  
 2\. Creating a classification report by analyzing sensitivity, specificity, AUC
-(ROC curve) for each model.
-3\. Comparing various model results to find the best performing model.
+(ROC curve) for each model.  
+3\. Comparing various model results to find the best performing model.  
