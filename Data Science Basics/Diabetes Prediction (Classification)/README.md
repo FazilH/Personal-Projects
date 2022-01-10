@@ -1,4 +1,4 @@
-**Classification:**
+# Classification:
 
 In machine learning, classification refers to a predictive modelling problem
 where the target variable is categorical in nature in the form of Yes/No, 0s/1s
