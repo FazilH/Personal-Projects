@@ -1,14 +1,10 @@
 # Regression
 
-# 
+Regression is an approach for finding the relationship between the response/target variable and one or more explanatory/independent variable. In regression the target variable is scalar/numerical.
 
-# Regression is an approach for finding the relationship between the response/target variable and one or more explanatory/independent variable. In regression the target variable is scalar/numerical.
-
-# 
 
 # Data Used : [Medical Cost Personal Datasets \| Kaggle](https://www.kaggle.com/mirichoi0218/insurance)
 
-# 
 
 # Variables :
 
