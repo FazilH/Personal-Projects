@@ -61,7 +61,7 @@ value.
 relationships.  
 3\. Performing correlation analysis. Visually exploring it using a heat map. 
 
-## Data Modeling:
+### Data Modeling:
 1\. Applying different classification algorithm to build a model.  
 2\. Creating a classification report by analyzing sensitivity, specificity, AUC
 (ROC curve) for each model.  
