@@ -4,8 +4,7 @@ In machine learning, classification refers to a predictive modelling problem
 where the target variable is categorical in nature in the form of Yes/No, 0s/1s
 .
 
-### Dataset used : [Pima Indians Diabetes Database \|
-Kaggle](https://www.kaggle.com/uciml/pima-indians-diabetes-database)
+### Dataset used : [Pima Indians Diabetes Database |Kaggle](https://www.kaggle.com/uciml/pima-indians-diabetes-database)
 
 ### Description:
 NIDDK (National Institute of Diabetes and Digestive and Kidney Diseases)
